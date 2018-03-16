@@ -1,0 +1,1 @@
+https://mobile.southwest.com/api/extensions/v1/mobile/flights/products
